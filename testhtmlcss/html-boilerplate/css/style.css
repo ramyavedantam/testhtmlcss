@@ -1,0 +1,28 @@
+h1{
+  background-color: orange;
+  text-align: center;
+
+}
+
+body{
+  background-color: lightyellow;
+
+}
+
+ol{
+  text-align: left;
+  background-color: green;
+  width:500px;
+
+}
+
+ul{
+  text-align: left;
+  background-color: lightblue;
+  width:500px;
+
+}
+img{
+  width:500px;
+
+}
